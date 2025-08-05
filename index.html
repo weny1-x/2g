@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>兔给设研7-9月制品总览</title>
+  <style>
+    body { display: none; } /* 默认隐藏页面 */
+  </style>
+  <script>
+    const password = prompt("请输入访问密码");
+    if (password !== "111") {
+      document.write("<h1>🚫 访问被拒绝</h1><p>密码错误</p>");
+      throw new Error("Unauthorized");
+    } else {
+      document.addEventListener("DOMContentLoaded", () => {
+        document.body.style.display = "block";
+      });
+    }
+  </script>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
+</head>
+<body>
+  <h1>📁 兔给设研7-9月制品总览</h1>
+  <section>
+    <h2>✅ 表格视图</h2>
+    <table id="data-table">
+      <thead><tr><th>名称</th><th>附件</th><th>持续时间</th><th>状态</th><th>阶段</th><th>颜色标记</th><th>暂时不做</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>📅 日历视图</h2>
+    <div id="calendar"></div>
+  </section>
+
+  <script src="js/table.js"></script>
+  <script src="js/calendar.js"></script>
+</body>
+</html>
