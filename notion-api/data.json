@@ -347,8 +347,8 @@
     "持续时间": "2025-07-25 → 2025-09-13",
     "暂时不做": "❌",
     "图片链接": [
-      "images/像素_吧唧豆_1.jpg",
-      "images/像素_吧唧豆_2.jpg"
+      "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/像素_吧唧豆_1.jpg",
+      "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/像素_吧唧豆_2.jpg"
     ],
     "备注": ""
   },
