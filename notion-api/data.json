@@ -216,7 +216,18 @@
     "阶段": "",
     "持续时间": "2025-07-25 → 2025-09-13",
     "暂时不做": "❌",
-    "图片链接": [],
+    "图片链接": [
+      {
+        "name": "8.png",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/8.png",
+        "isImage": true
+      },
+      {
+        "name": "毛绒吧唧样机.png",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/%E6%AF%9B%E7%BB%92%E5%90%A7%E5%94%A7%E6%A0%B7%E6%9C%BA.png",
+        "isImage": true
+      }
+    ],
     "备注": ""
   },
   {
@@ -326,7 +337,13 @@
     "阶段": "对接",
     "持续时间": "2025-07-25 → 2025-09-13",
     "暂时不做": "❌",
-    "图片链接": [],
+    "图片链接": [
+      {
+        "name": "微信图片_2025-08-02_214642_909.jpg",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-02_214642_909.jpg",
+        "isImage": true
+      }
+    ],
     "备注": ""
   },
   {
@@ -347,8 +364,21 @@
     "持续时间": "2025-07-25 → 2025-09-13",
     "暂时不做": "❌",
     "图片链接": [
-      "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/像素_吧唧豆_1.jpg",
-      "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/像素_吧唧豆_2.jpg"
+      {
+        "name": "9_玄晶手账本 副本_玄晶手账本 副本_玄晶手账本 副本.png",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/9_%E7%8E%84%E6%99%B6%E6%89%8B%E8%B4%A6%E6%9C%AC%20%E5%89%AF%E6%9C%AC_%E7%8E%84%E6%99%B6%E6%89%8B%E8%B4%A6%E6%9C%AC%20%E5%89%AF%E6%9C%AC_%E7%8E%84%E6%99%B6%E6%89%8B%E8%B4%A6%E6%9C%AC%20%E5%89%AF%E6%9C%AC.png",
+        "isImage": true
+      },
+      {
+        "name": "05_Pin Badge Mock-up(1).png",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/05_Pin%20Badge%20Mock-up(1).png",
+        "isImage": true
+      },
+      {
+        "name": "25mm吧唧豆镭射雪花or星幻拉丝.psd",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/files/25mm%E5%90%A7%E5%94%A7%E8%B1%86%E9%95%AD%E5%B0%84%E9%9B%AA%E8%8A%B1or%E6%98%9F%E5%B9%BB%E6%8B%89%E4%B8%9D.psd",
+        "isImage": false
+      }
     ],
     "备注": ""
   },
@@ -369,7 +399,13 @@
     "阶段": "生产",
     "持续时间": "2025-07-25 → 2025-09-13",
     "暂时不做": "❌",
-    "图片链接": [],
+    "图片链接": [
+      {
+        "name": "福运小卡加出血_需要倒圆角.psd",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/files/%E7%A6%8F%E8%BF%90%E5%B0%8F%E5%8D%A1%E5%8A%A0%E5%87%BA%E8%A1%80_%E9%9C%80%E8%A6%81%E5%80%92%E5%9C%86%E8%A7%92.psd",
+        "isImage": false
+      }
+    ],
     "备注": ""
   },
   {
@@ -379,7 +415,13 @@
     "阶段": "",
     "持续时间": "2025-07-20 → 2025-07-25",
     "暂时不做": "❌",
-    "图片链接": [],
+    "图片链接": [
+      {
+        "name": "贴纸-已触发已尝试-闪砂-cymk.psd",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/files/%E8%B4%B4%E7%BA%B8-%E5%B7%B2%E8%A7%A6%E5%8F%91%E5%B7%B2%E5%B0%9D%E8%AF%95-%E9%97%AA%E7%A0%82-cymk.psd",
+        "isImage": false
+      }
+    ],
     "备注": ""
   },
   {
@@ -429,7 +471,18 @@
     "阶段": "打样",
     "持续时间": "2025-07-20 → 2025-07-25",
     "暂时不做": "❌",
-    "图片链接": [],
+    "图片链接": [
+      {
+        "name": "微信图片_2025-08-08_124412_540.png",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-08_124412_540.png",
+        "isImage": true
+      },
+      {
+        "name": "贴纸_A5_透明背景_图案背面白墨-cymk.psd",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/files/%E8%B4%B4%E7%BA%B8_A5_%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF_%E5%9B%BE%E6%A1%88%E8%83%8C%E9%9D%A2%E7%99%BD%E5%A2%A8-cymk.psd",
+        "isImage": false
+      }
+    ],
     "备注": ""
   },
   {
@@ -443,13 +496,24 @@
     "备注": ""
   },
   {
-    "名称": "像素|硬糖",
+    "名称": "像素|硬糖彩窗厚切亚克力",
     "状态": "❌",
     "厂家": "",
     "阶段": "生产",
     "持续时间": "2025-07-20 → 2025-07-25",
     "暂时不做": "❌",
-    "图片链接": [],
+    "图片链接": [
+      {
+        "name": "微信图片_2025-08-08_123904_298.jpg",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-08-08_123904_298.jpg",
+        "isImage": true
+      },
+      {
+        "name": "彩窗厚亚克力cymk_缩小版.psd",
+        "url": "https://mybucket-1372898369.cos.ap-shanghai.myqcloud.com/files/%E5%BD%A9%E7%AA%97%E5%8E%9A%E4%BA%9A%E5%85%8B%E5%8A%9Bcymk_%E7%BC%A9%E5%B0%8F%E7%89%88.psd",
+        "isImage": false
+      }
+    ],
     "备注": ""
   }
 ]
