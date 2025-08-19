@@ -8,7 +8,7 @@
   </style>
   <script>
     const password = prompt("请输入访问密码");
-    if (password !== "111") {
+    if (password !== "2531") {
       document.write("<h1>🚫 访问被拒绝</h1><p>密码错误</p>");
       throw new Error("Unauthorized");
     } else {
@@ -30,6 +30,16 @@
       <tbody></tbody>
     </table>
   </section>
+
+  <section>
+  <h2>🧱 看板视图</h2>
+  <div id="board" class="board"></div>
+</section>
+
+<!-- 在页面底部已有的脚本后面再引入 -->
+<script src="notion-api/js/board.js"></script>
+
+
 
   <section>
     <h2>📅 日历视图</h2>
