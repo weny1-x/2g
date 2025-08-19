@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  text-align: left;
+}
+#calendar {
+  max-width: 100%;
+}
+
+/* 你的原有样式在这里... */
+
+/* Board 样式 */
+.board {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.board-column {
+  flex: 1;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 10px;
+  background: #fafafa;
+}
+
+.board-column h3 {
+  margin-top: 0;
+  text-align: center;
+  background: #f0f0f0;
+  padding: 6px;
+  border-radius: 4px;
+}
+.board-item {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  margin: 8px 0;
+  background: #fff;
+}
